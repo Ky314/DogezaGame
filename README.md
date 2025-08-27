@@ -4,3 +4,5 @@
 
 ー操作方法ー
 WASDで前後移動、スペースキーでジャンプ(効果音付)
+
+ゲームリンク：https://ky314.github.io/DogezaGame/
